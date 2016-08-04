@@ -1,0 +1,56 @@
+.Rectangle-1 {
+  width: 1440px;
+  height: 116px;
+  background-color: #f2f2f2;
+}
+
+.Rectangle-2 {
+  width: 179px;
+  height: 86px;
+  background-color: #d8d8d8;
+  border: solid 1px #979797;
+}
+
+.LOGO {
+  width: 149px;
+  height: 36px;
+  font-family: Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  text-align: center;
+  color: #615b5b;
+}
+
+.Rectangle-3 {
+  width: 1440px;
+  height: 908px;
+  background-color: #8395a9;
+}
+
+.We-have-a-new-websit {
+  width: 709.6px;
+  height: 68px;
+  font-family: OpenSans;
+  font-size: 50px;
+  font-weight: 600;
+  letter-spacing: 0.7px;
+  color: #ffffff;
+}
+
+.Weve-moved-our-webs {
+  width: 637px;
+  height: 82px;
+  font-family: OpenSans;
+  font-size: 30px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  color: #ffffff;
+}
+
+.Rectangle-5 {
+  width: 363px;
+  height: 66px;
+  border-radius: 8px;
+  background-color: #d3536e;
+}
+
